@@ -16,7 +16,6 @@ Currently leading Post Sales & Integration systems, where I architect and implem
 ### 🎯 Current Focus
 
 - Building StarScript: A custom programming language and compiler from scratch
-- Diving deep into Rust systems programming
 - Building foundational components from first principles
 - Exploring programming language theory and implementation
 - Crafting efficient CLI tools for developer productivity
