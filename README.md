@@ -1,10 +1,14 @@
 # 👋 Hi, I'm Matteo Stara
 
-Lead Engineer passionate about systems programming, language theory, and building from first principles.
+Senior Lead of Business Systems, Software Engineer - I am passionate about systems programming, GUIs, TUIs, language theory, and building from first principles.
 
 ## 🛠 Tech Stack
 
+### Sytems, TUIs, compilers
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=golang&logoColor=white)
+
+### GUIs, Web development, general purpose
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
