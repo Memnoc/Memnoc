@@ -2,7 +2,7 @@
 
 Senior Lead of Business Systems, Software Engineer - I am passionate about systems programming, GUIs, TUIs, language theory, and building from first principles.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Sytems, TUIs, compilers
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -37,15 +37,15 @@ Currently leading Post Sales & Integration systems, where I architect and implem
 
 #### [gig-ignite](https://www.npmjs.com/package/gig-ignite)
 A powerful .gitignore file generator CLI built with Node.js and TypeScript. Create customized .gitignore files for your projects with ease.
-- 🛠️ Built with Node.js & TypeScript
-- 📦 Available on npm
-- ⚡ Quick and intuitive interface
+- Built with Node.js & TypeScript
+- Available on npm
+- Quick and intuitive interface
 
 #### [Custom CLI Alerts](https://www.npmjs.com/package/custom-cli-alerts)
 A flexible CLI tool for displaying customizable error messages and alerts in your terminal applications.
-- 🎨 Customizable error displays
-- 🔧 Built with Node.js & TypeScript
-- 🚀 Enhanced developer experience
+- Customizable error displays
+- Built with Node.js & TypeScript
+- Enhanced developer experience
 
 ## 📫 Connect With Me
 
