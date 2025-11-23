@@ -13,32 +13,25 @@ Senior Lead of Business Systems, Software Engineer - I am passionate about syste
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🚀 What I Do
+## What I Do
 
-Currently leading Post Sales & Integration systems, where I architect and implement solutions that bridge the gap between complex systems and user needs.
+Currently leading Post Sales & Integration systems, where I architect and implement solutions that bridge the gap between complex systems and user needs. As a programmer, I have found my niche developing internal tools for my team. This activity has opened the door to an ever interesting series of issues I can solve using software.
 
-### 🎯 Current Focus
+### Current Focus
 
-- Building StarScript: A custom programming language and compiler from scratch
+- Compilers and Interpreters: working on implementing small domain languages
 - Building foundational components from first principles
 - Exploring programming language theory and implementation
 - Crafting efficient CLI tools for developer productivity
 
-## 💡 Core Interests
+## Core Interests
 
 - Low-level programming and systems design
 - Programming language theory and implementation
 - Compiler construction and optimization
 - Building robust, scalable integration systems
 
-## 🔧 Featured Projects
-
-### 🌟 StarScript Language
-A custom programming language and compiler built from the ground up, inspired by the "Crafting Interpreters" book.
-- 🔨 Handcrafted compiler implementation
-- 📚 Deep dive into language design and theory
-- 🎯 Focus on learning compiler fundamentals
-- 🚧 Work in progress
+## Featured Projects
 
 ### 🛠️ CLI Tools
 
@@ -53,8 +46,6 @@ A flexible CLI tool for displaying customizable error messages and alerts in you
 - 🎨 Customizable error displays
 - 🔧 Built with Node.js & TypeScript
 - 🚀 Enhanced developer experience
-
-*More projects coming soon as I explore systems programming and language theory!*
 
 ## 📫 Connect With Me
 
