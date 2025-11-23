@@ -33,7 +33,7 @@ Currently leading Post Sales & Integration systems, where I architect and implem
 
 ## Featured Projects
 
-### 🛠️ CLI Tools
+### CLI Tools
 
 #### [gig-ignite](https://www.npmjs.com/package/gig-ignite)
 A powerful .gitignore file generator CLI built with Node.js and TypeScript. Create customized .gitignore files for your projects with ease.
