@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Matteo Stara
+# 👋 Hi, I'm Memnoc
 
-Senior Lead of Business Systems, Software Engineer - I am passionate about systems programming, GUIs, TUIs, language theory, and building from first principles.
+Senior Lead of Business Systems (CX systems), Software Engineer, Systems Architect. I wear many hats and have over 12 years of tech industry experince under my belt. I have been a support agent, a technical writer, a self-service specialist, a programmer, a systems architect and a people leader. I am passionate about systems programming, GUIs, TUIs, language theory, and building from first principles. In my spare time, I love contributing to open source software, building compilers and interpreters, programming web apps.
 
 ## Tech Stack
 
