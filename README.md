@@ -39,7 +39,7 @@ A flexible CLI tool for displaying customizable error messages and alerts in you
 - Built with Node.js & TypeScript
 - Enhanced developer experience
 
-## 📫 Connect With Me
+## Connect With Me
 
 Feel free to reach out for collaborations or just a chat about programming and systems!
 
