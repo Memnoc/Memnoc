@@ -6,7 +6,6 @@ Senior Lead of Business Systems, Software Engineer - I am passionate about syste
 
 ### Sytems, TUIs, compilers
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=golang&logoColor=white)
 
 ### GUIs, Web development, general purpose
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
