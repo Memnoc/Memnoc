@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Memnoc
 
-Senior Lead of Business Systems (CX systems), Software Engineer, Systems Architect. I wear many hats and have over 12 years of tech industry experince under my belt. I have been a support agent, a technical writer, a self-service specialist, a programmer, a systems architect and a people leader. I am passionate about systems programming, GUIs, TUIs, language theory, and building from first principles. In my spare time, I love contributing to open source software, building compilers and interpreters, programming web apps.
+Senior Lead of Business Systems (CX systems), Software Engineer, Systems Architect. I wear many hats and have over 12 years of tech industry experince under my belt. I have been a support agent, a technical writer, a self-service specialist, a programmer, a systems architect and a people leader. I am passionate about systems programming, GUIs, TUIs, language theory, computer science theory. In my spare time, I love contributing to open source software, building compilers and interpreters, programming web apps.
 
 ## Tech Stack
 
@@ -14,23 +14,16 @@ Senior Lead of Business Systems (CX systems), Software Engineer, Systems Archite
 
 ## What I Do
 
-Currently leading Post Sales & Integration systems, where I architect and implement solutions that bridge the gap between complex systems and user needs. As a programmer, I have found my niche developing internal tools for my team. This activity has opened the door to an ever interesting series of issues I can solve using software.
+Currently, I lead a team of systems engineers specialised in Post Sales & Integration systems. My role is to architect and implement solutions that bridge the gap between complex systems and user needs. As a programmer, I have found my niche developing internal tools for my team. Being at my team's service has opened the door to an ever interesting series of real-life issues I can express and solve using code.
 
 ### Current Focus
 
-- Compilers and Interpreters: working on implementing small domain languages
-- Building foundational components from first principles
-- Exploring programming language theory and implementation
-- Crafting efficient CLI tools for developer productivity
+- Compilers and Interpreters: working on implementing compilers and interpreters, mainly in C
+- Building foundational components from first principles: mainly in my day-to-day job
+- Exploring programming language theory and implementation: toy languages, small domain languages
+- Crafting efficient CLI tools for developer productivity: if a problem can be solved with a TUI, I'll probably go for it
 
-## Core Interests
-
-- Low-level programming and systems design
-- Programming language theory and implementation
-- Compiler construction and optimization
-- Building robust, scalable integration systems
-
-## Featured Projects
+## Production Projects
 
 ### CLI Tools
 
