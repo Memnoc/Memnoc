@@ -41,10 +41,6 @@ A flexible CLI tool for displaying customizable error messages and alerts in you
 
 ## Connect With Me
 
-Feel free to reach out for collaborations or just a chat about programming and systems!
+Feel free to reach out via the channel you find most suitable.
 
 ---
-
-<p align="center">
-<i>Building the future one system at a time</i>
-</p>
