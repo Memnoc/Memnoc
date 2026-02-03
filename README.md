@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Memnoc
+# 👋 Hi,
 
 Senior Lead of Business Systems (CX systems), Software Engineer, Systems Architect. I wore many hats during my long career in the tech industry. I have been a support agent, a technical writer, a self-service specialist, a programmer, a systems architect and a people leader. 
 
