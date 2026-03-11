@@ -15,7 +15,7 @@ I am passionate about systems programming, GUIs, TUIs, language theory, computer
 
 ## What I Do
 
-Currently, I lead a team of systems engineers specialised in Post Sales & Integration systems. My role is to architect and implement solutions that bridge the gap between complex systems and user needs. As a programmer, I have found my niche developing internal tools for my team. Being at my team's service has opened the door to an ever interesting series of real-life issues I can express and solve using code.
+Currently, I lead a team of systems engineers specialised in Post Sales & Integration systems. My role is to architect and implement solutions that bridge the gap between complex systems and user needs. As a programmer, I have found my niche developing internal tools for my team. Being at my team's service has opened the door to an ever interesting series of real-life issues I can solve through integrations and code.
 
 ### Current Focus
 
