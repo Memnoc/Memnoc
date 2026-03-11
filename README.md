@@ -1,8 +1,6 @@
 # 👋 Hi,
 
-Senior Lead of Business Systems (CX systems), Software Engineer, Systems Architect. I wore many hats during my long career in the tech industry. I have been a support agent, a technical writer, a self-service specialist, a programmer, a systems architect and a people leader. 
-
-Lately, I have been craving more academic pursuits. I am passionate about systems programming, GUIs, TUIs, language theory, computer science theory. In my spare time, I love contributing to open source software, building compilers and interpreters, programming web apps.
+I am passionate about systems programming, GUIs, TUIs, language theory, computer science theory. In my spare time, I love contributing to open source software, building compilers and interpreters, programming web apps.
 
 ## Tech Stack
 
