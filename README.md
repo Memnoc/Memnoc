@@ -33,6 +33,7 @@ A powerful .gitignore file generator CLI built with Node.js and TypeScript. Crea
 - Built with Node.js & TypeScript
 - Available on npm
 - Quick and intuitive interface
+Try it! `npx gig-ignite l`
 
 #### [Custom CLI Alerts](https://www.npmjs.com/package/custom-cli-alerts)
 A flexible CLI tool for displaying customizable error messages and alerts in your terminal applications.
