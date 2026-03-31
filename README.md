@@ -2,7 +2,7 @@
 
 I am passionate about systems programming, GUIs, TUIs, language theory, computer science theory. In my spare time, I love contributing to open source software, building compilers and interpreters, programming web apps.
 
-## Tech Stack
+## Tools I use
 
 ### Sytems, TUIs, compilers, embedded
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -13,16 +13,16 @@ I am passionate about systems programming, GUIs, TUIs, language theory, computer
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## What I Do
+## What I work on
 
 Currently, I lead a team of systems engineers specialised in Post Sales & Integration systems. My role is to architect and implement solutions that bridge the gap between complex systems and user needs. As a programmer, I have found my niche developing internal tools for my team. Being at my team's service has opened the door to an ever interesting series of real-life issues I can solve through integrations and code.
 
-### Current Focus
+### Studies and personal activities
 
-- Compilers and Interpreters: working on implementing compilers and interpreters, mainly in C
-- Building foundational components from first principles: mainly in my day-to-day job
+- Compilers and Interpreters: working on implementing compilers and interpreters, mainly in Rust but starting from C
+- Adding more Data Structures and Algorithms implementation and practice in my projects and sovling problems skills
 - Exploring programming language theory and implementation: toy languages, small domain languages
-- Crafting efficient CLI tools for developer productivity: if a problem can be solved with a TUI, I'll probably go for it
+- CLI tools for developer productivity: if a problem can be solved with a TUI, I'll probably go for it
 
 ## Production Projects
 
